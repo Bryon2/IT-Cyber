@@ -1,0 +1,56 @@
+>>> ofdns.show()
+###[ IP ]### 
+  version= 4
+  ihl= None
+  tos= 0x0
+  len= None
+  id= 1
+  flags= 
+  frag= 0
+  ttl= 64
+  proto= udp
+  chksum= None
+  src= 10.0.0.25
+  dst= 130.108.128.200
+  \options\
+###[ UDP ]### 
+     sport= domain
+     dport= domain
+     len= None
+     chksum= None
+###[ DNS ]### 
+        id= 0
+        qr= 0
+        opcode= QUERY
+        aa= 0
+        tc= 0
+        rd= 1
+        ra= 0
+        z= 0
+        ad= 0
+        cd= 0
+        rcode= ok
+        qdcount= 1
+        ancount= 0
+        nscount= 0
+        arcount= 0
+        \qd\
+         |###[ DNS Question Record ]### 
+         |  qname= 'www.google.com'
+         |  qtype= A
+         |  qclass= IN
+        an= None
+        ns= None
+        ar= None
+
+
+
+
+>>> sr(ofdns)
+Begin emission:
+Finished sending 1 packets.
+.*
+Received 2 packets, got 1 answers, remaining 0 packets
+(<Results: TCP:0 UDP:1 ICMP:0 Other:0>,
+ <Unanswered: TCP:0 UDP:0 ICMP:0 Other:0>)
+
