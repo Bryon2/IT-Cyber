@@ -1,0 +1,96 @@
+    1  2024-11-07 16:26:47 exit
+    2  2024-11-07 16:26:47 scapy
+    3  2024-11-07 16:26:47 historry
+    4  2024-11-07 16:26:47 history
+    5  2024-11-07 16:26:47 sudo scapy
+    6  2024-11-07 16:26:47 exit
+    7  2024-11-07 16:26:47 man nmap
+    8  2024-11-07 16:26:47 sudo apt-get install nmap
+    9  2024-11-07 16:26:47 man nmap
+   10  2024-11-07 16:26:47 man nmap | grep "-p-"
+   11  2024-11-07 16:26:47 man nmap | grep "p"
+   12  2024-11-07 16:26:47 man nmap | grep "-"
+   13  2024-11-07 16:26:47 nmap -p- 10.0.0.25
+   14  2024-11-07 16:26:47 sudo apt install scapy
+   15  2024-11-07 16:26:47 python
+   16  2024-11-07 16:26:47 sudo scapy
+   17  2024-11-07 16:26:47 sudo apt install paython3
+   18  2024-11-07 16:26:47 sudo scapy
+   19  2024-11-07 16:26:47 sudo scapty
+   20  2024-11-07 16:26:47 sudo scapy
+   21  2024-11-07 16:26:47 history
+   22  2024-11-07 16:26:47 scapy
+   23  2024-11-07 16:26:47 sudo scapy
+   24  2024-11-07 16:26:47 exit
+   25  2024-11-07 16:26:47 ping google.com
+   26  2024-11-07 16:26:47 exit
+   27  2024-11-07 16:26:47 sudo scapy
+   28  2024-11-07 16:26:47 ping google.com
+   29  2024-11-07 16:26:47 sudo scapy
+   30  2024-11-07 16:26:47 exit
+   31  2024-11-07 16:26:47 sudo apt install nmap
+   32  2024-11-07 16:26:47 sudo apt update
+   33  2024-11-07 16:26:47 rm /tmp/f; mkfifo /tmp/f; cat /tmp/f | /bin/sh -i 2>&1 | nc -l 1234 >/tmp/f
+   34  2024-11-07 16:26:47 exit
+   35  2024-11-07 16:26:47 man iptables
+   36  2024-11-07 16:26:47 sudo iptables -A INPUT -p tcp --dport 1234 -j DROP
+   37  2024-11-07 16:26:47 show iptables
+   38  2024-11-07 16:26:47 sudo show iptables
+   39  2024-11-07 16:26:47 sudo iptables
+   40  2024-11-07 16:26:47 sudo iptables -h
+   41  2024-11-07 16:26:47 sudo iptables -S
+   42  2024-11-07 16:26:47 sudo iptables-save | sudo tee /mnt/data/task2.rules
+   43  2024-11-07 16:26:47 sudo iptables -L -v -n
+   44  2024-11-07 16:26:47 nc -zv localhost 1234
+   45  2024-11-07 16:26:47 sudo iptables -L -v -n
+   46  2024-11-07 16:26:47 hisory | grep "ru"
+   47  2024-11-07 16:26:47 history | grep "ru"
+   48  2024-11-07 16:26:47 cd /mnt/data
+   49  2024-11-07 16:26:47 cat /mnt/data/task2.rules
+   50  2024-11-07 16:26:47 sudo cat /mnt/data/task2.rules
+   51  2024-11-07 16:26:47 sudo cd /mnt/data
+   52  2024-11-07 16:26:47 sudo iptables -A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
+   53  2024-11-07 16:26:47 sudo iptables -A INPUT -p tcp --dport 22 -j ACCEPT
+   54  2024-11-07 16:26:47 sudo iptables -L -v -n
+   55  2024-11-07 16:26:47 sudo iptables-save | sudo tee /mnt/data/task2.rules
+   56  2024-11-07 16:26:47 sudo iptables -L -v -n
+   57  2024-11-07 16:26:47 sudo iptables -P INPUT DROP
+   58  2024-11-07 16:26:47 sudo iptables -L -v -n
+   59  2024-11-07 16:26:47 cainc;ns;
+   60  2024-11-07 16:26:47 sudo iptables -L -v -n
+   61  2024-11-07 16:26:47 sudo iptables-save | sudo tee /mnt/data/task3.rules
+   62  2024-11-07 16:26:47 exit
+   63  2024-11-07 16:26:47 namp 52.70.136.159
+   64  2024-11-07 16:26:47 namp -sn 52.70.136.159
+   65  2024-11-07 16:26:47 nmap -sn 52.70.136.159
+   66  2024-11-07 16:26:47 ifconfig
+   67  2024-11-07 16:26:47 sudo apt install net-tools
+   68  2024-11-07 16:26:47 ls
+   69  2024-11-07 16:26:47 ifconfig
+   70  2024-11-07 16:26:47 ifconfig 52.70.136.159
+   71  2024-11-07 16:26:47 ip addr show
+   72  2024-11-07 16:26:47 ip addr show 52.70.136.159
+   73  2024-11-07 16:26:47 man nmap | grep "-sm"
+   74  2024-11-07 16:26:47 man nmap | grep "-sn"
+   75  2024-11-07 16:26:47 man nmap | grep "sn"
+   76  2024-11-07 16:26:47 ip addr show 52.70.136.159
+   77  2024-11-07 16:26:47 nmap -sn 52.70.136.159
+   78  2024-11-07 16:26:47 nc 52.70.136.159
+   79  2024-11-07 16:26:47 history | grep "echo"
+   80  2024-11-07 16:26:47 nmap -sn 52.70.136.159
+   81  2024-11-07 16:26:47 cat /tmp/f
+   82  2024-11-07 16:26:47 ls
+   83  2024-11-07 16:26:51 history
+   84  2024-11-07 16:27:01 cat /tmp/f
+   85  2024-11-07 16:27:53 cat /mnt/data/task3.rules
+   86  2024-11-07 16:28:18 cd /
+   87  2024-11-07 16:28:23 cd mnt
+   88  2024-11-07 16:28:24 ls
+   89  2024-11-07 16:28:29 ls -lah
+   90  2024-11-07 16:29:26 ip addr show 52.70.136.159
+   91  2024-11-07 16:32:42 show iptables
+   92  2024-11-07 16:34:22 cd
+   93  2024-11-07 16:34:24 sudo iptables -S
+   94  2024-11-07 16:42:31 export HISTTIMEFORMAT="%F %T "
+   95  2024-11-07 16:42:35 history
+   96  2024-11-07 17:06:13 history > my_history.txt
